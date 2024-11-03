@@ -8,6 +8,8 @@ For me	"a data scientist trying to switch to machine learning engineer by learni
 
 I will evaluate "A data scientist applying for a master’s in finance" as a medium scale. In regards of analysing big quantative financial data is essential in businesses. Decision making based on real data analysis is effective. i could contribute to prevent from future risks and problems in business worlds. 
 
+Bbbbangppppang
+
 ## **Task4**
 
 Evaluate if the computer professionals have maintained higher standards of commitment, integrity, responsibility, and accountability.
