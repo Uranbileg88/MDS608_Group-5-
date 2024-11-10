@@ -9,7 +9,7 @@ Imagine a scenario where you might face a conflict between personal gain and pub
 In accordance with the norms, I shall give precedence to the public interest and refrain from utilizing unauthorized private data. I will pursue legitimate solutions, such as obtaining requisite consents or seeking alternative data sources, to guarantee that my conduct conforms to ethical and legal stipulations. If I detect any phenomenon in a project that contravenes the public interest, I will denounce this project and report the entire project to the relevant departments.  
 
 
-4.	Dealing with Limitations of Knowledge and Skills:
+3.	Dealing with Limitations of Knowledge and Skills:
 The code emphasizes recognizing limitations in one's knowledge and skills. Describe a situation where you might feel pressured to perform a task beyond your current expertise. How would you handle this ethically, following the code?
 
 I would first acknowledge that my current knowledge and skills are not sufficient for the complexity of the task. This is an essential first step to ensure I'm not overestimating my capabilities or taking on work that could result in poor outcomes.
@@ -20,16 +20,20 @@ Ethically, it's critical to consider the impact of my work on the team and the p
 The key ethical principle in such a scenario is honesty about one’s capabilities and the willingness to seek help when necessary. By acknowledging limitations, communicating transparently, and collaborating effectively, I can ensure that the task is completed competently and responsibly, while also learning and developing professionally.
 
 
-6.	Responsibility for Continuous Learning:
+4.	Responsibility for Continuous Learning:
 Reflect on the code’s emphasis on professional development. Why is continuous learning important in the ICT field, and how does this relate to maintaining ethical standards?
 
 Continuous learning also upholds an ICT professional’s personal and professional integrity. By committing to learning, professionals demonstrate a dedication to excellence and a willingness to adapt in an industry that is constantly shifting. 
 This commitment to growth is not only about increasing technical capabilities but also about fostering an ethical mindset. A professional who is aware of new ethical challenges—whether related to privacy, accessibility, or the digital divide—is in a better position to make responsible choices.
 
-For example, in cybersecurity, staying informed about the latest threats and defense mechanisms is a matter of professional duty. An individual who neglects ongoing learning in cybersecurity might fail to protect sensitive data, risking both financial loss and reputational damage, which can have far-reaching consequences for businesses and users.
+For example, in cybersecurity, staying informed about the latest threats and defense mechanisms is a matter of professional duty. An individual who neglects ongoing learning in cybersecurity might fail to protect sensitive data, risking both financial loss and reputational damage, which can have far-reaching consequences for businesses and users. 
 
 
-8.	Influence of the Code on Your Future Career:
+Furthermore, to maintain their credibility and provide reliable, high-quality services, ICT professionals must stay informed about technological change. It is crucial to note that continuous learning includes both technical skills as well as ethical awareness, enabling professionals to navigate complex challenges in a responsible manner. For instance, by understanding data privacy and algorithmic bias, we are able to prevent harm and make ethical decisions. Finally, users' interests are protected and their trust in ICT services is strengthened through a commitment to ongoing education.
+
+5.	Influence of the Code on Your Future Career:
 In what ways do you think the ACS Code of Professional Conduct will influence your future career decisions? Describe how you plan to incorporate these ethical principles into your daily work as an ICT professional.
 
 The ACS Code of Professional Conduct will serve as a guiding framework for my career, influencing the ethical decisions I make as an ICT professional. By prioritizing the public good, upholding integrity and transparency, ensuring continuous learning, respecting privacy, and fostering accountability, I will be well-equipped to contribute to the ICT field in a responsible and impactful way. Incorporating these principles into my daily work will help me not only maintain high ethical standards but also build a career that is focused on long-term positive contributions to society.
+
+As for me, the ACS Code of Professional Conduct will be general line for shaping my future career choices, especially in navigating complex ethical situations in ICT. Using these principles, I will consistently prioritize the public interest, maintain honesty in all my professional interactions, and strive for continuous improvement. In my day-to-day work practices, I will adhere to the principles of respecting stakeholders' privacy and promoting inclusivity. With the assistance of this approach, I will be able to make informed, responsible decisions that meet both industry standards and community needs.
