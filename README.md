@@ -3,8 +3,11 @@
 This is Weekly journal of Group 5 for SPI MDS608 Professional Practice.
 
 Details of group members: 
+
 Student1: SPI230889 Uranbileg Batsaikhan
+
 Student2: SPI230860 Wenxian CAO
+
 Student3: SPI230914 Gulnur KHURMYETKHAN 
 
 
