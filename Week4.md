@@ -1,4 +1,5 @@
-Task 1 
+## Task 1 
+
 There are different forms of business ownership. The most common business structures are sole trader, a partnership, and a company. It is important to take a decision about the type of business you run as early as possible. The decisions you make early on can affect many areas of your business, including the licenses you need, how much tax you pay, and the volume of paperwork required.
 In groups, read the following situations and discuss what is the best type of business structure to go for:
 •	A web developer works in a day job for a financial organization. In the free time, the web developer takes requests to design personal websites, and charge clients by hourly rate.
@@ -15,7 +16,8 @@ Company would be the most appropriate business structure for this case.
 Forming a company, such as a private limited company, is the most suitable choice. It offers limited liability, meaning the graduate’s personal assets are protected. The investor can hold shares in the company, formalizing their involvement and funding contribution. Additionally, operating as a company can enhance credibility when dealing with investors and stakeholders. However, this structure comes with more paperwork, regulatory compliance, and tax obligations.
 
 
-Task 2 :
+## Task 2 
+
 Corporate governance is the system by which companies are directed and controlled. Boards of directors are responsible for the governance of their companies. The shareholders’ role in governance is to appoint the directors and the auditors and to satisfy themselves that an appropriate governance structure is in place.
 Executive tem is a group of senior executives or managers, normally led by the Chief Executive Officer (CEO), responsible for the day-to-day operations and execution of the company’s strategies.
 Read the following tasks and discuss whether it falls under the responsibility of the board of directors or the executive team:
