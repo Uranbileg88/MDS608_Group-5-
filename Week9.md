@@ -15,6 +15,7 @@ the tool wrongly described Walters as a defendant in that case who had been accu
 fraud. Walters is seeking monetary compensation from the company for the reputational
 damage allegedly caused by these false statements. 12*
 
+
 *• In A.T. v. OpenAI, users are suing OpenAI for allegedly violating federal (ECPA) and state
 (CIPA) wiretapping laws by collecting user data when they input content into ChatGPT or
 into third-party websites’ search features that have integrated ChatGPT APIs. Users are also
@@ -22,7 +23,7 @@ alleging that OpenAI violates the Computer Fraud and Abuse Act of 1986 (CFAA), a
 anti-hacking law, for the same action of collecting their user data (especially their metadata)
 when using ChatGPT and ChatGPT plugins on third-party websites. 3*
 
-###Task 4 :
+### Task 4 :
 
 
 Your fintech company developed an app for a digital bank. But recently several customers have
