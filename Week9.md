@@ -66,5 +66,7 @@ What to do: Create an easy-to-use mechanism within your app where customers can 
 Why it helps: Quick reporting helps your team take immediate action and investigate scams while also warning other users.
 Finally 
 By implementing a combination of security measures, customer education, real-time fraud detection, and clear communication, your fintech company can help minimize the risks of scams. Taking proactive steps like multi-factor authentication, fraud detection systems, and real-time alerts will make your platform more secure. Educating your customers about common scams and providing easy access to support will also play a key role in preventing fraud.
+We also discuss our country is risk of scam and business our group member Wenxian he lost 50000 
+verycarefully scam is everywhere
 
 
