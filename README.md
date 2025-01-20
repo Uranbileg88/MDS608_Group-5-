@@ -31,4 +31,4 @@ Student3: SPI230914 Gulnur KHURMYETKHAN
 
 [Week9](Week9.md)
 
-[Week9](W10.md)
+[Week10](W10.md)
